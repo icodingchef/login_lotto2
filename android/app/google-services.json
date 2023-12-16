@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761934015396",
+    "project_id": "login-lotto-a5b51",
+    "storage_bucket": "login-lotto-a5b51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761934015396:android:77deeefdd5f9855210af31",
+        "android_client_info": {
+          "package_name": "com.example.login_lotto2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv7Ug8vjKzf4OjNx8a1gSt6EXAeGzt45E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
