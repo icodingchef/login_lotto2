@@ -35,8 +35,8 @@ class _LottoState extends State<Lotto> {
       Fluttertoast.showToast(
         msg: "15번까지만 생성 가능합니다.",
         toastLength: Toast.LENGTH_LONG,
-        gravity: ToastGravity.BOTTOM,
-        //timeInSecForIosWeb: 1,
+        gravity: ToastGravity.TOP,
+        timeInSecForIosWeb: 1,
         backgroundColor: Colors.black,
         textColor: Colors.white,
       );
