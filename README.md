@@ -4,10 +4,10 @@
 
 ## 앱 설명
 
-로또 앱 최종 프로젝트입니다.
-- 로그인 정보
-  ID: email@email.com
-  Password: 123456
+ 로또 앱 최종 프로젝트입니다.
+# 로그인 정보
+- ID: email@email.com
+- Password: 123456
 
 A few resources to get you started if this is your first Flutter project:
 
