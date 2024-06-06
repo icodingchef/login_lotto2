@@ -1,6 +1,6 @@
 # login_lotto2
 
-A new Flutter project.
+Firebase 데이터베이스를 사용해서 회원가입과 로그인 기능을 구현할 수 있는 예제 앱입니다. 이 기능을 사용하려면 책에서 설명한 대로 각자의 로그인 앱과 파이어베이스 프로젝트를 연동해야 합니다.
 
 ## Getting Started
 
